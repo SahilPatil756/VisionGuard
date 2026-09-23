@@ -1,6 +1,5 @@
 <p align="right">
-  <a href="README.md">English</a> |
-  <a href="README.zh-CN.md">中文</a>
+  <a href="README.md">English</a>
 </p>
 
 # Industrial Parts Defect Detection with Explainable Deep Learning
